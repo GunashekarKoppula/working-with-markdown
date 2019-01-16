@@ -92,4 +92,4 @@ dcase@nwmissouri.edu
 
 Gunashekar Koppula
 
-![Hosted image](https://www.pexels.com/photo/silhouette-of-people-by-the-seashore-1387037/"Joy")
+![Hosted image](https://res.cloudinary.com/dqtgs03ux/image/upload/v1485432274/ogzrmq0ztsakumxvi5iy.png "Joy")
