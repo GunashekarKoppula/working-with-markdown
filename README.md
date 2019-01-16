@@ -98,3 +98,8 @@ Gunashekar Koppula
 - Playing Cricket
 - Reading Books
 - Watching Movies
+
+### Programming languages
+1. c#
+1. Angular js
+
