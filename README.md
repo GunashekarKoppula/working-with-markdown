@@ -93,3 +93,8 @@ dcase@nwmissouri.edu
 Gunashekar Koppula
 
 ![Hosted image](https://res.cloudinary.com/dqtgs03ux/image/upload/v1485432274/ogzrmq0ztsakumxvi5iy.png "Joy")
+
+### Hobbies
+- Playing Cricket
+- Reading Books
+- Watching Movies
