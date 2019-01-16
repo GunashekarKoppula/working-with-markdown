@@ -88,4 +88,8 @@ Denise Case
 
 dcase@nwmissouri.edu
 
-## New Section
+## About Me
+
+Gunashekar Koppula
+
+![Hosted image](https://www.pexels.com/photo/silhouette-of-people-by-the-seashore-1387037/"Joy")
